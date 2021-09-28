@@ -1,7 +1,0 @@
----
- - hosts: all
-   tasks:
-         - command: "Hostname"
-         - command: "uname -r"
-         - command: "free -h"
-
